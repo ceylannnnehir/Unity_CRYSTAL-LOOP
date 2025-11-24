@@ -96,6 +96,7 @@ GameOver ekranında:
 🎥 Projenin oyun içi videosu sunumda gösterilecektir:
 
 📎 *(https://drive.google.com/file/d/1mI9UF-ym6g65oDxTjI5PGrnqeQDM1eDE/view?usp=sharing)*  
+https://drive.google.com/file/d/1mI9UF-ym6g65oDxTjI5PGrnqeQDM1eDE/view?usp=drive_link
 
 
 ---
