@@ -95,7 +95,7 @@ GameOver ekranında:
 
 🎥 Projenin oyun içi videosu sunumda gösterilecektir:
 
-📎 *[Ekran Kaydı 2025-11-24 15:55:18.mp4](https://drive.google.com/file/d/1mI9UF-ym6g65oDxTjI5PGrnqeQDM1eDE/view?usp=sharing)*  
+📎 *(https://drive.google.com/file/d/1mI9UF-ym6g65oDxTjI5PGrnqeQDM1eDE/view?usp=sharing)*  
 
 
 ---
