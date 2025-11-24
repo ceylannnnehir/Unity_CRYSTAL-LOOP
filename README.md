@@ -104,7 +104,7 @@ GameOver ekranında:
 ## 📁 Projeyi Çalıştırma
 
 ```bash
-1. Proje klasörünü bilgisayarınıza indirin.
-2. Unity Hub → Open → Unity_L1 klasörünü seçin.
-3. Unity sürümü farklıysa 2022.3.62f2 sürümünü yükleyin.
-4. İlk sahneyi açın ve Play tuşuna basın.
+1. Proje Unity_CRYSTAL-LOOP-master.zip bilgisayarınıza indirin.
+2. Zip kalsörünü ayıklayın.
+3. MyGameBuild klasörünü açın.
+4. CRYSTAL LOOP. exe dosyasını çalıştırın.
