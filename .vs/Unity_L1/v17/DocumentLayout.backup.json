@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\n0661\\Unity_L1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|c:\\users\\n0661\\unity_l1\\assets\\scripts\\replay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\puantoplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puantoplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\oyuncukontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oyuncukontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|C:\\Users\\n0661\\Unity_L1\\assets\\scripts\\oyuncukontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41542BD-D1BE-C79C-9CA4-FABD0AC2ED17}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oyuncukontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Replay.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\Replay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Replay.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\Replay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Replay.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:17:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:30:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\MusicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicController.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\MusicController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:45:12.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInfo.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\PlayerInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:52:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engel.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\Engel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Engel.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\Engel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Engel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:30:56.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextLevel.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextLevel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:11:28.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:20:19.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PuanToplama.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\PuanToplama.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PuanToplama.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\PuanToplama.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PuanToplama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:25:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OyuncuKontrol2.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\OyuncuKontrol2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OyuncuKontrol2.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\OyuncuKontrol2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OyuncuKontrol2.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:43:53.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OyuncuKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\OyuncuKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OyuncuKontrol.cs",
+              "ToolTip": "C:\\Users\\n0661\\Unity_L1\\Assets\\Scripts\\OyuncuKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OyuncuKontrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:02:48.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
